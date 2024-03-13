@@ -1,0 +1,4 @@
+name: xBossBar
+version: '${project.version}'
+main: space.xbossbar.XBossBar
+api-version: '1.16'
