@@ -37,7 +37,7 @@ import java.util.logging.Level;
 import java.util.stream.Collectors;
 import java.util.zip.GZIPOutputStream;
 
-@SuppressWarnings("ALL") //TODO: cry.
+@SuppressWarnings("ALL") //cry.
 public final class Metrics {
 
     private final Plugin plugin;
