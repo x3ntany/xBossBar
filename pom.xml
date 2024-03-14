@@ -23,13 +23,10 @@
         <artifactId>maven-compiler-plugin</artifactId>
         <version>3.8.1</version>
         <configuration>
-<<<<<<< HEAD
-          <source>${java.version}</source>
-          <target>${java.version}</target>
-=======
           <source>16</source>
           <target>16</target>
->>>>>>> 79b5cee (Initial commit)
+          <source>16</source>
+          <target>16</target>
         </configuration>
       </plugin>
       <plugin>

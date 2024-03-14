@@ -1,9 +1,5 @@
 name: xBossBar
 version: '${project.version}'
-<<<<<<< HEAD
-main: space.xbossbar.XBossBar
-api-version: '1.16'
-=======
 main: space.xbossbar.BossBarPlugin
 api-version: '1.16'
 author: xentany
@@ -13,4 +9,3 @@ commands:
 permissions:
   xbossbar.use:
     default: op
->>>>>>> 79b5cee (Initial commit)
